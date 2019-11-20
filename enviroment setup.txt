@@ -1,0 +1,9 @@
+enviroment setup
+
+additionally installed packages:
+	python -m pip install pandas,newspaper3k,feedparser,requests, folium
+
+additionally installed software:
+	nltk packages
+
+

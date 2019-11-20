@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss" xml:lang="en">
+ <id>http://rss.dw.com/atom/rss-en-all</id>
+ <title><![CDATA[Deutsche Welle]]></title>
+ <subtitle><![CDATA[Deutsche Welle]]></subtitle>
+ <updated>2019-11-18T20:10:22Z</updated>
+ <author>
+  <name>DW.COM, Deutsche Welle</name>
+  <email>info@dw.com</email>
+  <uri>http://www.dw.com</uri>
+ </author>
+ <link rel="self" href="http://rss.dw.com/atom/rss-en-all"/>
+ <link rel="related" href="http://www.dw.com/english/?maca=en-rss-en-all-1573-xml-atom"/>
+ <icon>https://rss.dw.com/images/dw_icon.png</icon>
+ <logo>https://rss.dw.com/images/DW-L-RGB_whitebg.png</logo>
+ <rights>2019 DW.COM, Deutsche Welle</rights>
+ <entry>
+  <id>tag:dw.com,2019:51230413</id>
+  <title><![CDATA[Germany: Right-wing militias play into public fears]]></title>
+  <updated>2019-11-18T19:55:00Z</updated>
+  <published>2019-11-18T19:55:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/germany-right-wing-militias-play-into-public-fears/a-51230413?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Right-wing militia groups say they patrol where police turn a blind eye. But with criminality dropping and more police than ever in Germany, analysts and politicians say their motives are more sinister.]]></summary>
+  <category term="Germany"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51303488</id>
+  <title><![CDATA[US softens stance on Israeli settlements — no longer 'inconsistent with international law']]></title>
+  <updated>2019-11-18T19:36:00Z</updated>
+  <published>2019-11-18T19:36:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/us-softens-stance-on-israeli-settlements-no-longer-inconsistent-with-international-law/a-51303488?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Regarding Israeli settlements as inconsistent with international law "has not advanced the cause of peace," Pompeo said. The move goes against global consensus and jeopardizes Palestinian hopes for a two-state solution.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51302056</id>
+  <title><![CDATA[Yemen rebels hijack Saudi vessel as government returns to Aden]]></title>
+  <updated>2019-11-18T19:12:00Z</updated>
+  <published>2019-11-18T19:12:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/yemen-rebels-hijack-saudi-vessel-as-government-returns-to-aden/a-51302056?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Prime Minister al-Hadrami arrived in the southern city as part of a Saudi-brokered power sharing agreement. Despite the deal, rebels seized a Saudi-flagged tugboat that was towing an oil tanker.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51302186</id>
+  <title><![CDATA[Overcoming German businesses' cold feet in Africa]]></title>
+  <updated>2019-11-18T19:09:00Z</updated>
+  <published>2019-11-18T19:09:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/overcoming-german-businesses-cold-feet-in-africa/a-51302186?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Many German businesses are reluctant to invest in Africa. But a new African business index might help build trust and foster better business relations.]]></summary>
+  <category term="World"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51302076</id>
+  <title><![CDATA[Amazon deforestation in Brazil hits worst level in over a decade]]></title>
+  <updated>2019-11-18T18:53:00Z</updated>
+  <published>2019-11-18T18:53:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/amazon-deforestation-in-brazil-hits-worst-level-in-over-a-decade/a-51302076?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Deforestation in the Amazon rose by almost 30%, the latest Brazilian government figures show. Concerns over the fate of the Amazon have heightened since right-wing President Jair Bolsonaro took office this year.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51298790</id>
+  <title><![CDATA[Van carrying migrants smashes into Spanish enclave border]]></title>
+  <updated>2019-11-18T18:51:00Z</updated>
+  <published>2019-11-18T18:51:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/van-carrying-migrants-smashes-into-spanish-enclave-border/a-51298790?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[The van was traveling "at full speed" when it smashed through a barrier with 50 people inside. Spanish officials said although it's not the first time, the latest incident involved the biggest number of migrants so far.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51300833</id>
+  <title><![CDATA[Spain: Pamplona 'Wolf Pack' rapists tried for separate sex abuse case in Cordoba]]></title>
+  <updated>2019-11-18T18:32:00Z</updated>
+  <published>2019-11-18T18:32:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/spain-pamplona-wolf-pack-rapists-tried-for-separate-sex-abuse-case-in-cordoba/a-51300833?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Four men who were found guilty of raping a teenager at the San Fermin Festival have now been accused of a separate crime. The new trial began with the prosecution alleging the group sexually abused an unconscious woman.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51297382</id>
+  <title><![CDATA[Sieren’s China: Europe must speak with one voice]]></title>
+  <updated>2019-11-18T17:17:00Z</updated>
+  <published>2019-11-18T17:17:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/sieren-s-china-europe-must-speak-with-one-voice/a-51297382?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[The EU will only be able to face China if it acts decisively and manages to present itself as a great power in geostrategic terms, says DW’s Frank Sieren.]]></summary>
+  <category term="Opinion"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51297638</id>
+  <title><![CDATA[Germany's digital gaps illustrated by broadcast cutoff]]></title>
+  <updated>2019-11-18T17:04:00Z</updated>
+  <published>2019-11-18T17:04:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/germany-s-digital-gaps-illustrated-by-broadcast-cutoff/a-51297638?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Rural Germany’s wireless communications deficits have been underscored by a lost television interview signal. Meeting at Meseberg outside Berlin, Chancellor Angela Merkel’s cabinet was discussing digital strategy fixes.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51300657</id>
+  <title><![CDATA[Airbus scores major deals as Boeing falters at Dubai airshow]]></title>
+  <updated>2019-11-18T16:43:00Z</updated>
+  <published>2019-11-18T16:43:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/airbus-scores-major-deals-as-boeing-falters-at-dubai-airshow/a-51300657?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Emirates ordered dozens of planes from the European giant while the US-based Boeing continued to suffer. Boeing has had a severe dip in reputation after two major deadly crashes involvings its 737 MAX.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51295817</id>
+  <title><![CDATA[Exclusive: Prominent Saudi Princess Basmah bint Saud 'missing']]></title>
+  <updated>2019-11-18T16:00:00Z</updated>
+  <published>2019-11-18T16:00:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/exclusive-prominent-saudi-princess-basmah-bint-saud-missing/a-51295817?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[The outspoken royal "fell off the radar" after being denied travel for emergency medical treatment. Those close to the princess want answers over her alleged detainment.]]></summary>
+  <category term="World"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51298607</id>
+  <title><![CDATA[Euro 2020: Germany coach Joachim Löw looking to end 'difficult year' on a high]]></title>
+  <updated>2019-11-18T15:51:00Z</updated>
+  <published>2019-11-18T15:51:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/euro-2020-germany-coach-joachim-löw-looking-to-end-difficult-year-on-a-high/a-51298607?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[The focus turns to Frankfurt as Germany take on Northern Ireland in their final European Championship qualifier. Germany must better the Netherlands' result against Estonia to be sure of top spot in the group.]]></summary>
+  <category term="Sports"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51297786</id>
+  <title><![CDATA[Dutch prosecutors and FA investigate racial abuse after football match suspended]]></title>
+  <updated>2019-11-18T15:42:00Z</updated>
+  <published>2019-11-18T15:42:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/dutch-prosecutors-and-fa-investigate-racial-abuse-after-football-match-suspended/a-51297786?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[A referee had to suspend a game after fans of FC Den Bosch abused a black player for Excelsior Rotterdam. This is the fourth major incident of racism in European football in recent months.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51295110</id>
+  <title><![CDATA[German government would rather save the coalition than the climate, says activist]]></title>
+  <updated>2019-11-18T15:36:00Z</updated>
+  <published>2019-11-18T15:36:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/german-government-would-rather-save-the-coalition-than-the-climate-says-activist/a-51295110?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[German climate activist Luisa Neubauer says politicians are hampering urgent climate action measures. She spoke to DW about the growing Fridays for Future movement and why older generations need to step up.]]></summary>
+  <category term="Environment"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51298232</id>
+  <title><![CDATA[French surgeon accused of sexually abusing up to 250 children]]></title>
+  <updated>2019-11-18T15:24:00Z</updated>
+  <published>2019-11-18T15:24:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/french-surgeon-accused-of-sexually-abusing-up-to-250-children/a-51298232?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Of the potential victims, 184 have filed an initial complaint and 181 were underage at the time of the alleged offenses. Investigators have found evidence in the French medic's home linking him to the crimes.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51296887</id>
+  <title><![CDATA[Greta Thunberg inspires soon-to-be parents]]></title>
+  <updated>2019-11-18T14:55:00Z</updated>
+  <published>2019-11-18T14:55:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/greta-thunberg-inspires-soon-to-be-parents/a-51296887?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Greta Thunberg is an inspiration not only for young climate activists, but also for expectant parents. According to a survey, more and more couples want to name their baby after her.]]></summary>
+  <category term="Culture"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51291275</id>
+  <title><![CDATA[How cloud gaming is changing the scene]]></title>
+  <updated>2019-11-18T14:45:00Z</updated>
+  <published>2019-11-18T14:45:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/how-cloud-gaming-is-changing-the-scene/a-51291275?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Technological advances and digital games have always influenced each other, with new genres coming and going all the time. Cloud gaming, a streaming service, is the latest development.]]></summary>
+  <category term="Culture"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51295862</id>
+  <title><![CDATA[Hong Kong universities: a new battleground between protesters and police]]></title>
+  <updated>2019-11-18T14:05:00Z</updated>
+  <published>2019-11-18T14:05:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/hong-kong-universities-a-new-battleground-between-protesters-and-police/a-51295862?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[As a political solution remains out of sight, violence between demonstrators and police in Hong Kong has escalated as many young people see themselves as carrying out a "final battle" for their civil liberties.]]></summary>
+  <category term="World"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51295901</id>
+  <title><![CDATA[Germany urges Iran to respect 'legitimate' protests]]></title>
+  <updated>2019-11-18T12:38:00Z</updated>
+  <published>2019-11-18T12:38:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/germany-urges-iran-to-respect-legitimate-protests/a-51295901?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Iran's Revolutionary Guards have warned of "decisive" action if unrest over a 50% fuel hike continues. At least two people have died in violent riots so far.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51295629</id>
+  <title><![CDATA[Catalan president stands trial for 'disobedience']]></title>
+  <updated>2019-11-18T12:14:00Z</updated>
+  <published>2019-11-18T12:14:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/catalan-president-stands-trial-for-disobedience/a-51295629?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Amid hightened tensions in Catalonia, the regional president has gone on trial for displaying and refusing to remove secessionist symbols from public buildings. Nine separatist leaders were sent to jail in October.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51294383</id>
+  <title><![CDATA[Ethiopia's Sidamas prepare to vote on regional independence]]></title>
+  <updated>2019-11-18T12:07:00Z</updated>
+  <published>2019-11-18T12:07:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/ethiopia-s-sidamas-prepare-to-vote-on-regional-independence/a-51294383?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Residents of Ethiopia's Sidama zone are set to vote in a referendum to decide if they want to become the country's tenth semi-autonomous state. The Sidamas have been campaigning for regional independence for decades.]]></summary>
+  <category term="World"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51293541</id>
+  <title><![CDATA[Germany produces record amount of packaging waste]]></title>
+  <updated>2019-11-18T11:33:00Z</updated>
+  <published>2019-11-18T11:33:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/germany-produces-record-amount-of-packaging-waste/a-51293541?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Despite good recycling habits, Germans get through a quarter ton of packaging per person each year. A new law is supposed to boost industrial-scale recycling and reusable wrapping and containers.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51286196</id>
+  <title><![CDATA[Russia returns navy vessels seized from Ukraine]]></title>
+  <updated>2019-11-18T11:19:00Z</updated>
+  <published>2019-11-18T11:19:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/russia-returns-navy-vessels-seized-from-ukraine/a-51286196?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Russian authorities have returned three Ukrainian military ships from their Crimean port to Ukraine. The navy vessels were seized during a clash in the Kerch Strait last year.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51293661</id>
+  <title><![CDATA[Indonesia: Mass arrests after IS-linked suicide bombing]]></title>
+  <updated>2019-11-18T10:43:00Z</updated>
+  <published>2019-11-18T10:43:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/indonesia-mass-arrests-after-is-linked-suicide-bombing/a-51293661?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Indonesian police have arrested at least 43 suspected militants in relation to an attack on a police station last week. A suicide bomber with alleged links to "Islamic State" killed himself and wounded six others.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51292003</id>
+  <title><![CDATA[Germany: Thieves steal 80 Christmas trees]]></title>
+  <updated>2019-11-18T10:04:00Z</updated>
+  <published>2019-11-18T10:04:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/germany-thieves-steal-80-christmas-trees/a-51292003?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Unknown perpetrators made off with 80 Christmas trees being stored in an empty department store over the weekend. Police estimate that the trees were worth over €1,000.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51291991</id>
+  <title><![CDATA[France: Teenager dies after bridge collapses]]></title>
+  <updated>2019-11-18T09:55:00Z</updated>
+  <published>2019-11-18T09:55:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/france-teenager-dies-after-bridge-collapses/a-51291991?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[At least one person has died and several others had to be rescued from the river Tarn in southern France. More than 70 emergency workers have been deployed to the scene of the incident in Toulouse.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51290619</id>
+  <title><![CDATA[Heavy snow in Alps causes avalanches and travel disruptions]]></title>
+  <updated>2019-11-18T08:47:00Z</updated>
+  <published>2019-11-18T08:47:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/heavy-snow-in-alps-causes-avalanches-and-travel-disruptions/a-51290619?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Schools and roads were closed on Monday in parts of Austria as heavy snow and rain cause disruption across the Alpine region. Two women were rescued by firefighters after their houses were destroyed in a mudslide.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51290419</id>
+  <title><![CDATA[Belarus election: No seats for opposition as Lukashenko maintains power]]></title>
+  <updated>2019-11-18T06:57:00Z</updated>
+  <published>2019-11-18T06:57:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/belarus-election-no-seats-for-opposition-as-lukashenko-maintains-power/a-51290419?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[After their surprise election in 2016, neither of the two sitting opposition candidates were allowed to stand this time. Strongman leader Alexander Lukashenko plans to stand again in presidential elections next year.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51289436</id>
+  <title><![CDATA[Greek protesters mark 1973 student uprising]]></title>
+  <updated>2019-11-18T00:37:00Z</updated>
+  <published>2019-11-18T00:37:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/greek-protesters-mark-1973-student-uprising/a-51289436?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Thousands have joined rallies in Greece to mark the anniversary of a 1973 uprising against the country's military dictatorship. It's the first major demonstration since the election of the new conservative government.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51288708</id>
+  <title><![CDATA[Hong Kong police threaten 'live bullets' during university siege]]></title>
+  <updated>2019-11-17T23:25:00Z</updated>
+  <published>2019-11-17T23:25:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/hong-kong-police-threaten-live-bullets-during-university-siege/a-51288708?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[After a two-day standoff, police have stormed into a major university campus as protesters fought back with gasoline bombs and bows and arrows. Police have threatened to fire live bullets at "rioters."]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51288245</id>
+  <title><![CDATA[Germany: Kids fish out World War II ammunition from pond]]></title>
+  <updated>2019-11-17T22:21:00Z</updated>
+  <published>2019-11-17T22:21:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/germany-kids-fish-out-world-war-ii-ammunition-from-pond/a-51288245?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[A group of children fishing with a strong magnet in eastern Germany were shocked to find WWII ammunition at the end of their line. Police have advised people against the "unusual and not recommended hobby."]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51285747</id>
+  <title><![CDATA[German national team caught in a marketing bubble]]></title>
+  <updated>2019-11-17T20:24:00Z</updated>
+  <published>2019-11-17T20:24:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/german-national-team-caught-in-a-marketing-bubble/a-51285747?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Germany booked their ticket to EURO 2020, but are struggling to sell tickets to supporters. Empty seats were evident again in Mönchengladbach with fans complaining of too much marketing and inflated prices.]]></summary>
+  <category term="Sports"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51287734</id>
+  <title><![CDATA[Germany's Greens propose €12 minimum wage]]></title>
+  <updated>2019-11-17T20:15:00Z</updated>
+  <published>2019-11-17T20:15:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/germany-s-greens-propose-€12-minimum-wage/a-51287734?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[The Greens called for more social and climate-friendly reforms at the end of their party conference. With the party now a potential partner in Germany's next government, their economic proposals were watched closely.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51287190</id>
+  <title><![CDATA[German football referees strike over player violence]]></title>
+  <updated>2019-11-17T18:52:00Z</updated>
+  <published>2019-11-17T18:52:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/german-football-referees-strike-over-player-violence/a-51287190?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Spitting, racist abuse and physical violence — Cologne referees have gone on strike to protest against increasing violence among players. Many amateur league matches were canceled as a result.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51287073</id>
+  <title><![CDATA[Burkina Faso: A terrorist gold mine]]></title>
+  <updated>2019-11-17T18:08:00Z</updated>
+  <published>2019-11-17T18:08:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/burkina-faso-a-terrorist-gold-mine/a-51287073?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Gold mines in isolated areas of Africa’s Sahel region have become a welcome source of income for terrorists. Recent attacks in Burkina Faso show that security forces in the region are unable to gain the upper hand.]]></summary>
+  <category term="World"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51283956</id>
+  <title><![CDATA[Leaders pay respects on Germany's remembrance day]]></title>
+  <updated>2019-11-17T14:14:00Z</updated>
+  <published>2019-11-17T14:14:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/leaders-pay-respects-on-germany-s-remembrance-day/a-51283956?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Germany's Volkstrauertag commemorates victims of racism and dictatorship as well as soldiers. The president of the Central Council of Jews in Germany used his speech to warn of a rise in right-wing extremism.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51281055</id>
+  <title><![CDATA[The 'Three Gs' emerge as Germany take step forward]]></title>
+  <updated>2019-11-17T14:00:00Z</updated>
+  <published>2019-11-17T14:00:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/the-three-gs-emerge-as-germany-take-step-forward/a-51281055?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[After months of slow development, Germany finally took a visible step forward. While they met their expectations against Belarus, it was the emergence of Ginter, Goretzka and Gündogan that impressed the most.]]></summary>
+  <category term="Sports"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51269718</id>
+  <title><![CDATA[Compact with Africa: Enthusiasm wanes for the 'Merkel Plan']]></title>
+  <updated>2019-11-17T12:40:00Z</updated>
+  <published>2019-11-17T12:40:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/compact-with-africa-enthusiasm-wanes-for-the-merkel-plan/a-51269718?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[At a meeting in Berlin, African leaders will discuss the state of the 'Compact with Africa' project with German Chancellor Angela Merkel. So far, it has fallen short of expectations.]]></summary>
+  <category term="World"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51283225</id>
+  <title><![CDATA[Germany should stop aiding Chinese military, Amnesty warns]]></title>
+  <updated>2019-11-17T09:29:00Z</updated>
+  <published>2019-11-17T09:29:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/germany-should-stop-aiding-chinese-military-amnesty-warns/a-51283225?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[The German military plans to train 11 Chinese soldiers in 2020. In the light of protests in Hong Kong, Human rights group Amnesty International and activist Joshua Wong urged Berlin to take a stand against Beijing.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51283028</id>
+  <title><![CDATA[Saudi oil giant Aramco kicks off milestone IPO]]></title>
+  <updated>2019-11-17T08:15:00Z</updated>
+  <published>2019-11-17T08:15:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/saudi-oil-giant-aramco-kicks-off-milestone-ipo/a-51283028?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Saudi Arabia has formally launched the initial public offering of stock in state-owned oil giant Aramco. The long-awaited IPO is part of plans to move the kingdom away from oil dependency.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51279449</id>
+  <title><![CDATA[Finland's football fairy-tale sparks revolution]]></title>
+  <updated>2019-11-16T22:16:00Z</updated>
+  <published>2019-11-16T22:16:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/finland-s-football-fairy-tale-sparks-revolution/a-51279449?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[For the first time in the nation’s history, Finland’s national football team have qualified for a major tournament. The euphoria is limitless and the hopes of a bright future are huge.]]></summary>
+  <category term="Sports"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51271297</id>
+  <title><![CDATA[Germany book place at Euro 2020 after Belarus rout]]></title>
+  <updated>2019-11-16T21:54:00Z</updated>
+  <published>2019-11-16T21:54:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/germany-book-place-at-euro-2020-after-belarus-rout/a-51271297?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Toni Kroos struck twice as Germany qualified for the European Championship with a 4-0 win over Belarus. Die Mannschaft's qualification was confirmed after Northern Ireland failed to beat the Netherlands in Belfast.]]></summary>
+  <category term="Sports"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51281029</id>
+  <title><![CDATA[Germany vs. Belarus: Player ratings]]></title>
+  <updated>2019-11-16T21:53:00Z</updated>
+  <published>2019-11-16T21:53:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/germany-vs-belarus-player-ratings/a-51281029?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Germany were dominant from the first whistle and comfortably saw off the challenge of Belarus to qualify for EURO 2020. Matthias Ginter and Toni Kroos stole the show, but how did the rest of Joachim Löw’s charges fare?]]></summary>
+  <category term="Sports"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51279559</id>
+  <title><![CDATA[BRICS — Still an alternative power bloc?]]></title>
+  <updated>2019-11-16T17:13:00Z</updated>
+  <published>2019-11-16T17:13:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/brics-still-an-alternative-power-bloc/a-51279559?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[The BRICS nations are in agreement on one thing — their increasing opposition to the US. Yet they have developed in different ways and at times pursue divergent interests.]]></summary>
+  <category term="World"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51272762</id>
+  <title><![CDATA['You have given me wonderful years' says departing Bayern Munich chief Uli Hoeness]]></title>
+  <updated>2019-11-15T20:29:00Z</updated>
+  <published>2019-11-15T20:29:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/you-have-given-me-wonderful-years-says-departing-bayern-munich-chief-uli-hoeness/a-51272762?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Uli Hoeness has stepped down as Bayern Munich's president. Under his watch, Bayern have become the dominant force in German football and one of the finest teams in Europe — but he remains a controversial figure.]]></summary>
+  <category term="Sports"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51270701</id>
+  <title><![CDATA[Volkswagen to spend €60 billion on switch to electric cars]]></title>
+  <updated>2019-11-15T17:15:00Z</updated>
+  <published>2019-11-15T17:15:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/volkswagen-to-spend-€60-billion-on-switch-to-electric-cars/a-51270701?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[The German car giant said it will invest even more money than previously planned into expanding its electric fleet. Over the next decade, VW plans to roll out 75 completely electric models and 60 hybrid vehicles.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51271328</id>
+  <title><![CDATA[After the floods: Could Venice lose its World Heritage status?]]></title>
+  <updated>2019-11-15T16:51:00Z</updated>
+  <published>2019-11-15T16:51:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/after-the-floods-could-venice-lose-its-world-heritage-status/a-51271328?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Venice is in danger of losing its UNESCO World Heritage status after this week's extreme flooding, according to the body's director, Mechtild Rössler. At the same time, she offered the lagoon city immediate aid.]]></summary>
+  <category term="Culture"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51267975</id>
+  <title><![CDATA[Pussy Riot's Maria Alyokhina's 'Riot Days' are not over yet]]></title>
+  <updated>2019-11-15T15:55:00Z</updated>
+  <published>2019-11-15T15:55:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/pussy-riot-s-maria-alyokhina-s-riot-days-are-not-over-yet/a-51267975?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[On her way to Berlin, the Pussy Riot activist's boyfriend was arrested for an action in support of political prisoners. Alyokhina told DW about how the movement is attracting unlikely candidates, and revealed new plans.]]></summary>
+  <category term="Culture"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51215403</id>
+  <title><![CDATA[Uli Hoeness: From young visionary to old-school patriarch]]></title>
+  <updated>2019-11-15T14:36:00Z</updated>
+  <published>2019-11-15T14:36:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/uli-hoeness-from-young-visionary-to-old-school-patriarch/a-51215403?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Uli Hoeness has done more to make Bayern Munich the force that they are than anyone else. Now he has decided not to stand for reelection as club president, a move that was long overdue, writes DW's Tobias Oelmaier.]]></summary>
+  <category term="Sports"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51264334</id>
+  <title><![CDATA[Bayern Munich reject human rights motion ahead of annual general meeting]]></title>
+  <updated>2019-11-15T14:27:00Z</updated>
+  <published>2019-11-15T14:27:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/bayern-munich-reject-human-rights-motion-ahead-of-annual-general-meeting/a-51264334?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Fans and human rights activists have frequently criticized Bayern Munich for its business dealings in Qatar. Ahead of its AGM, the club has now rejected a motion to add a human rights resolution to its constitution.]]></summary>
+  <category term="Sports"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51264761</id>
+  <title><![CDATA[Who's afraid of Corbynomics? ]]></title>
+  <updated>2019-11-15T13:16:00Z</updated>
+  <published>2019-11-15T13:16:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/who-s-afraid-of-corbynomics/a-51264761?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[The unpopular Labour leader, Jeremy Corbyn, is 14% behind in the polls in the run-up to the UK's December 12 election. But, it seems, some of his more radical economic ideas are not as unpopular as the man himself.]]></summary>
+  <category term="Business"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51264384</id>
+  <title><![CDATA[Lady bits or labia? The Vagina Museum brings anatomy to light]]></title>
+  <updated>2019-11-15T11:46:00Z</updated>
+  <published>2019-11-15T11:46:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/lady-bits-or-labia-the-vagina-museum-brings-anatomy-to-light/a-51264384?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[As misinformation about women’s bodies abounds, how we speak about reproductive organs matters more than ever. Enter the Vagina Museum in London.]]></summary>
+  <category term="Culture"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51048519</id>
+  <title><![CDATA[Living in hope and fear beside India's retreating Himalayan glaciers]]></title>
+  <updated>2019-11-15T09:57:00Z</updated>
+  <published>2019-11-15T09:57:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/living-in-hope-and-fear-beside-india-s-retreating-himalayan-glaciers/a-51048519?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[In northern India, falling snow levels and glacial retreat is impacting livelihoods and access to water. DW visited some of these local villages to explore what that means for the lives of people in the region.]]></summary>
+  <category term="Environment"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51243835</id>
+  <title><![CDATA[Writers in prison, killed or harassed: PEN International's case list]]></title>
+  <updated>2019-11-15T08:38:00Z</updated>
+  <published>2019-11-15T08:38:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/writers-in-prison-killed-or-harassed-pen-international-s-case-list/a-51243835?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[On November 15 every year, PEN International observes the Day of the Imprisoned Writer by highlighting five representative cases of authors who are persecuted for their work. Many more are on the association's radar.]]></summary>
+  <category term="Culture"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51258284</id>
+  <title><![CDATA[Venice flooding: Salt threatens frescoes and paintings]]></title>
+  <updated>2019-11-14T21:07:00Z</updated>
+  <published>2019-11-14T21:07:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/venice-flooding-salt-threatens-frescoes-and-paintings/a-51258284?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Salt crystalized by historic floodwaters poses a great threat to Venice's many wall paintings and frescoes. German art conservator Sven Taubert says good planning is key to preserving the historic works of art.]]></summary>
+  <category term="World"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51253089</id>
+  <title><![CDATA[Kashmir: Non-local workers pay the price for demographic changes]]></title>
+  <updated>2019-11-14T15:02:00Z</updated>
+  <published>2019-11-14T15:02:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/kashmir-non-local-workers-pay-the-price-for-demographic-changes/a-51253089?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Attacks against non-local workers have increased in Kashmir since India scrapped the region's special status. Locals fear that the government is planning to establish non-Muslim settlements to alter Kashmir's demography.]]></summary>
+  <category term="World"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51252261</id>
+  <title><![CDATA[Iran and East Germany: Life in a dictatorship explored in 'Tomorrow we are free']]></title>
+  <updated>2019-11-14T14:55:00Z</updated>
+  <published>2019-11-14T14:55:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/iran-and-east-germany-life-in-a-dictatorship-explored-in-tomorrow-we-are-free/a-51252261?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[An amazing debut: In "Tomorrow we are free," Iranian director Hossein Pourseifi — who has long lived in Germany — connects life in his home country to communist East Germany.]]></summary>
+  <category term="Culture"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51215686</id>
+  <title><![CDATA[All sizes, all colors: Lizzo celebrates bodies]]></title>
+  <updated>2019-11-14T08:48:00Z</updated>
+  <published>2019-11-14T08:48:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/all-sizes-all-colors-lizzo-celebrates-bodies/a-51215686?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[The US rapper and singer has kicked off her "Cuz I Love You" tour in Germany — and she wants you to love yourself. While she's a messenger for body positivity, she refuses to be reduced to one single identity.]]></summary>
+  <category term="Culture"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51209280</id>
+  <title><![CDATA[Climate change has become a health emergency]]></title>
+  <updated>2019-11-14T00:53:00Z</updated>
+  <published>2019-11-14T00:53:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/climate-change-has-become-a-health-emergency/a-51209280?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Climate change poses a major threat to the health of the world's children and may shape the future of a whole generation if global temperatures are not kept well below 2°C, new research shows.]]></summary>
+  <category term="Environment"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51223797</id>
+  <title><![CDATA[Illiteracy makes dementia three times more likely — study]]></title>
+  <updated>2019-11-13T22:20:00Z</updated>
+  <published>2019-11-13T22:20:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/illiteracy-makes-dementia-three-times-more-likely-study/a-51223797?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Practicality aside, reading and writing can offer lifelong benefits to brain health. A new study links illiteracy to a higher risk of dementia.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51230906</id>
+  <title><![CDATA[Hayabusa2 probe leaves Ryugu asteroid, heads home]]></title>
+  <updated>2019-11-13T16:17:00Z</updated>
+  <published>2019-11-13T16:17:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/hayabusa2-probe-leaves-ryugu-asteroid-heads-home/a-51230906?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[A Japanese spacecraft started its journey towards Earth after investigating an asteroid for a year and a half. It is set to fly for one year, drop off samples in the Australian desert, and then continue exploring space.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51222951</id>
+  <title><![CDATA[Why Germany needs more international students]]></title>
+  <updated>2019-11-13T15:41:00Z</updated>
+  <published>2019-11-13T15:41:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/why-germany-needs-more-international-students/a-51222951?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Almost 10% of Germany's university students are foreign, with most coming from China and India. But are they well integrated? Financial shortfalls and a xenophobic far-right are just some challenges universities face.]]></summary>
+  <category term="Culture"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51229697</id>
+  <title><![CDATA[Germany: Far-right lawmaker ousted from committee over anti-Semitism]]></title>
+  <updated>2019-11-13T15:32:00Z</updated>
+  <published>2019-11-13T15:32:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/germany-far-right-lawmaker-ousted-from-committee-over-anti-semitism/a-51229697?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[In a move unprecedented in modern German history, lawmakers on Wednesday stripped a far-right politician of his role as a parliamentary committee chair. He had made comments widely condemned as anti-Semitic.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51224443</id>
+  <title><![CDATA[Venice's cultural institutions hit hard by floods]]></title>
+  <updated>2019-11-13T14:48:00Z</updated>
+  <published>2019-11-13T14:48:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/venice-s-cultural-institutions-hit-hard-by-floods/a-51224443?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[The lagoon city is used to the phenomenon known as "acqua alta," but the record-breaking floods put Venice in an emergency situation. Many cultural venues had to close and are tracking the damage caused by the water.]]></summary>
+  <category term="Culture"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51225631</id>
+  <title><![CDATA[German grammar in 'OK boomer' tweet gets Twitter account banned]]></title>
+  <updated>2019-11-13T14:23:00Z</updated>
+  <published>2019-11-13T14:23:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/german-grammar-in-ok-boomer-tweet-gets-twitter-account-banned/a-51225631?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[When does "the" mean "die"? A German-speaking Twitter user's response of "the boomers" reaped a 12-hour account lockout after it was interpreted as an English-language threat.]]></summary>
+  <category term="Culture"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51201574</id>
+  <title><![CDATA[Star Wars spinoff helps Disney play catch-up with Netflix]]></title>
+  <updated>2019-11-13T12:08:00Z</updated>
+  <published>2019-11-13T12:08:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/star-wars-spinoff-helps-disney-play-catch-up-with-netflix/a-51201574?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[The launch of the Disney+ streaming platform includes an eight-part Star Wars series, The Mandalorian. The entertainment giant will increasingly face a battle for viewers against gaming and social media sites.]]></summary>
+  <category term="Business"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51216359</id>
+  <title><![CDATA[What happens to nuclear waste from power plants?]]></title>
+  <updated>2019-11-13T11:29:00Z</updated>
+  <published>2019-11-13T11:29:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/what-happens-to-nuclear-waste-from-power-plants/a-51216359?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[African countries looking to invest in nuclear energy as a source of clean electricity should consider Europe's struggles with disposing of radioactive waste.]]></summary>
+  <category term="Environment"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:40813074</id>
+  <title><![CDATA[10 yummy German soups]]></title>
+  <updated>2019-11-13T11:19:00Z</updated>
+  <published>2019-11-13T11:19:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/10-yummy-german-soups/a-40813074?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[The Germans know that one of the best comfort foods for a frosty evening is a steaming bowl of soup. Discover some regional specialties right here.]]></summary>
+  <category term="Culture"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51136452</id>
+  <title><![CDATA[Cleaning up Brazil's waste management]]></title>
+  <updated>2019-11-13T10:28:00Z</updated>
+  <published>2019-11-13T10:28:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/cleaning-up-brazil-s-waste-management/a-51136452?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[After the closure of the largest garbage dump in Latin America just outside Brasilia, a new project is pioneering sustainable waste management. Could it be a role model for other cities around the country?]]></summary>
+  <category term="Environment"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:45215381</id>
+  <title><![CDATA[Germany's 16 states: Mecklenburg-Western Pomerania]]></title>
+  <updated>2019-11-13T08:51:00Z</updated>
+  <published>2019-11-13T08:51:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/germany-s-16-states-mecklenburg-western-pomerania/a-45215381?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Mecklenburg-Western Pomerania is home to seaside resorts once nicknamed "Berlin's bathtub," and is ideal for waterside holidays — from the Baltic Sea coast to the Mecklenburg lake district.]]></summary>
+  <category term="Culture"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:48760994</id>
+  <title><![CDATA[SpaceX's Starlink satellites: 7 questions for Elon Musk]]></title>
+  <updated>2019-11-11T15:06:00Z</updated>
+  <published>2019-11-11T15:06:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/spacex-s-starlink-satellites-7-questions-for-elon-musk/a-48760994?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[SpaceX has launched 60 Starlink satellites to join its growing megaconstellation. Its aim: Global internet with a constellation of 40,000 satellites. Its nearest competitor, OneWeb, aims to launch just 600. Wait, what?]]></summary>
+  <category term="Science"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51199586</id>
+  <title><![CDATA[Bach meets techno: DJ Marc Romboy gives the Baroque composer an electronic update]]></title>
+  <updated>2019-11-11T14:29:00Z</updated>
+  <published>2019-11-11T14:29:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/bach-meets-techno-dj-marc-romboy-gives-the-baroque-composer-an-electronic-update/a-51199586?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Bach is techno — ask DJ Marc Romboy if you don't believe it's true. Romboy takes classical masterpieces and gives them a 21st century, electronic music face-lift.]]></summary>
+  <category term="Culture"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51201354</id>
+  <title><![CDATA[Is the German language degenerating?]]></title>
+  <updated>2019-11-11T14:25:00Z</updated>
+  <published>2019-11-11T14:25:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/is-the-german-language-degenerating/a-51201354?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Butchered words and incorrect grammar on WhatsApp and Twitter, and Anglicisms everywhere: For years, critics have been complaining that the German language is deteriorating. But are they right?]]></summary>
+  <category term="Culture"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51166327</id>
+  <title><![CDATA[Poverty after retirement: How a German pensioner makes ends meet]]></title>
+  <updated>2019-11-11T12:44:00Z</updated>
+  <published>2019-11-11T12:44:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/poverty-after-retirement-how-a-german-pensioner-makes-ends-meet/a-51166327?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Germany's government has approved plans to increase pensions for low income earners. DW spoke to one retiree about living below the poverty line and how such a plan could improve his quality of life.]]></summary>
+  <category term="Germany"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:50642176</id>
+  <title><![CDATA[Microplastics: Airing my dirty (nappy) laundry in public]]></title>
+  <updated>2019-11-11T10:48:00Z</updated>
+  <published>2019-11-11T10:48:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/microplastics-airing-my-dirty-nappy-laundry-in-public/a-50642176?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Modern cloth nappies are a convenient alternative to disposables. But in trying to solve one environmental problem, are they contributing to another? Samantha Early aired her dirty laundry in public to find some answers.]]></summary>
+  <category term="Environment"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51167733</id>
+  <title><![CDATA[German industry wary as Brexit overshadows lavish UK election vows]]></title>
+  <updated>2019-11-11T10:46:00Z</updated>
+  <published>2019-11-11T10:46:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/german-industry-wary-as-brexit-overshadows-lavish-uk-election-vows/a-51167733?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Both Labour and the Conservatives have been promising plenty ahead of the UK general election in December, with the big focus on a massive borrowing binge. German industry thinks the Conservatives are "the lesser evil."]]></summary>
+  <category term="Business"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51192993</id>
+  <title><![CDATA[German government strikes deal on basic pension]]></title>
+  <updated>2019-11-10T16:06:00Z</updated>
+  <published>2019-11-10T16:06:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/german-government-strikes-deal-on-basic-pension/a-51192993?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[After hours of negotiations, the German government has reached a compromise on raising pensions for low-income retirees. Merkel's conservatives and the center-left SPD had been deadlocked over the issue for months.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51141937</id>
+  <title><![CDATA[Differences in personality: What psychiatrists can learn from mice to treat depression]]></title>
+  <updated>2019-11-08T16:41:00Z</updated>
+  <published>2019-11-08T16:41:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/differences-in-personality-what-psychiatrists-can-learn-from-mice-to-treat-depression/a-51141937?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Scientists have developed a new way for measuring the personalities of animals. So why should we humans care? Because understanding personality traits is key for more individualized therapies in psychiatry.]]></summary>
+  <category term="Science"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51166417</id>
+  <title><![CDATA[India pollution: How a farming revolution could solve stubble burning]]></title>
+  <updated>2019-11-08T11:37:00Z</updated>
+  <published>2019-11-08T11:37:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/india-pollution-how-a-farming-revolution-could-solve-stubble-burning/a-51166417?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Pollution in Delhi has hit record-breaking levels and a farming method, known as stubble burning, was a major contributor. DW's Catherine Davison went to the countryside to check out what's being done to stop this trend.]]></summary>
+  <category term="Environment"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51163866</id>
+  <title><![CDATA['You should be gassed': What it meant to be punk in East Germany]]></title>
+  <updated>2019-11-08T10:35:00Z</updated>
+  <published>2019-11-08T10:35:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/you-should-be-gassed-what-it-meant-to-be-punk-in-east-germany/a-51163866?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[They were outsiders, teenagers, rebelling against confinement. They were despised by citizens loyal to the state, harassed by GDR authorities, and locked up in prison. But being punk also meant freedom.]]></summary>
+  <category term="Culture"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51151263</id>
+  <title><![CDATA[Infidelity: A fling doesn't have to end everything]]></title>
+  <updated>2019-11-07T16:00:00Z</updated>
+  <published>2019-11-07T16:00:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/infidelity-a-fling-doesn-t-have-to-end-everything/a-51151263?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[A partner's betrayal, whether it's a one-time hook-up or a full-blown affair, is devastating. Does it mean the end of the relationship, though? Not necessarily. It can also serve as a wake-up call — to be better.]]></summary>
+  <category term="Science"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51108790</id>
+  <title><![CDATA[The EU declares war on e-waste]]></title>
+  <updated>2019-11-07T07:25:00Z</updated>
+  <published>2019-11-07T07:25:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/the-eu-declares-war-on-e-waste/a-51108790?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[To help reduce electronic waste, a new EU law will require manufacturers to ensure their home appliances are easier to repair. Environmentalists have hailed it as a milestone. But the new law still has gaps.]]></summary>
+  <category term="Environment"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51136944</id>
+  <title><![CDATA[Study showing Botswana as the origin of humans is under scrutiny]]></title>
+  <updated>2019-11-06T15:53:00Z</updated>
+  <published>2019-11-06T15:53:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/study-showing-botswana-as-the-origin-of-humans-is-under-scrutiny/a-51136944?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[A new study that pinpoints Botswana as the origin of modern humans some 200,000 years ago has caused a flurry of debate among scientists, with some dismissing the research as deeply flawed.]]></summary>
+  <category term="World"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51118334</id>
+  <title><![CDATA[Quantum computing: Is it really all it's cracked up to be?]]></title>
+  <updated>2019-11-05T13:37:00Z</updated>
+  <published>2019-11-05T13:37:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/quantum-computing-is-it-really-all-it-s-cracked-up-to-be/a-51118334?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Quantum computers could change our world. But not in the way you may think. For those working on this complex technology, managing expectations is proving a challenge. DW spoke to one of Europe’s top quantum scientists.]]></summary>
+  <category term="Science"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:50786152</id>
+  <title><![CDATA[SESAME Field Trip: Open door policy at a synchrotron]]></title>
+  <updated>2019-11-04T10:07:00Z</updated>
+  <published>2019-11-04T10:07:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/sesame-field-trip-open-door-policy-at-a-synchrotron/a-50786152?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA['By the time we got to the synchrotron in Jordan, the story was already told.' DW's Zulfikar Abbany went on a tour of the Middle East for science journalists. This is the seventh and final part of his diary.]]></summary>
+  <category term="Science"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:50644206</id>
+  <title><![CDATA[Australia's koalas threatened by deforestation and bushfires]]></title>
+  <updated>2019-11-04T07:29:00Z</updated>
+  <published>2019-11-04T07:29:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/australia-s-koalas-threatened-by-deforestation-and-bushfires/a-50644206?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[The koala is on the verge of "functional" extinction. To make matters worse, logging, wildfires and drought are becoming more frequent across Australia. A koala hospital is working to find ways to help them survive.]]></summary>
+  <category term="Environment"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51054861</id>
+  <title><![CDATA[Vegan meat: The future of planet-saving plant-based eating?]]></title>
+  <updated>2019-11-01T09:35:00Z</updated>
+  <published>2019-11-01T09:35:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/vegan-meat-the-future-of-planet-saving-plant-based-eating/a-51054861?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[With a plant-based diet touted as the answer to emissions-intensive livestock farming, DW marks World Vegan Day by asking if a new wave of low carbon post-meat products can really lead the climate fight?]]></summary>
+  <category term="Environment"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:50915166</id>
+  <title><![CDATA[Scotland restores its peatlands to keep carbon in the ground]]></title>
+  <updated>2019-10-31T08:26:00Z</updated>
+  <published>2019-10-31T08:26:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/scotland-restores-its-peatlands-to-keep-carbon-in-the-ground/a-50915166?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Often overlooked as critical carbon sinks, peatlands store at least twice as much carbon as forests. After years of degredation, Scotland has increased its ambition in restoring these important areas.]]></summary>
+  <category term="Environment"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:51052955</id>
+  <title><![CDATA[Munich study confirms severe decline in insect populations in Germany]]></title>
+  <updated>2019-10-30T18:01:00Z</updated>
+  <published>2019-10-30T18:01:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/munich-study-confirms-severe-decline-in-insect-populations-in-germany/a-51052955?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Two years ago, volunteer insectologists sounded the alarm — the number of flying insects had drastically fallen. Now a new study on three protected regions in Germany confirms these fears.]]></summary>
+  <category term="Science"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:50985105</id>
+  <title><![CDATA[Audio fingerprinting: The secrets of sand begin to emerge]]></title>
+  <updated>2019-10-28T10:12:00Z</updated>
+  <published>2019-10-28T10:12:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/audio-fingerprinting-the-secrets-of-sand-begin-to-emerge/a-50985105?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Sand on beach may look all the same, but it's not. Researchers have found that the material has a "sound," one that can be linked to its home. Find the source, and we can learn more about how it moves around the world.]]></summary>
+  <category term="Science"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:18779536</id>
+  <title><![CDATA[Concussions an issue for elite rugby, but don't let that put you off playing]]></title>
+  <updated>2019-10-27T14:57:00Z</updated>
+  <published>2019-10-27T14:57:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/concussions-an-issue-for-elite-rugby-but-don-t-let-that-put-you-off-playing/a-18779536?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Rugby is a classic contact sport, and the rules of the game are designed to largely prevent serious injuries. Concussions remain a serious issue in elite rugby, but amateur and hobby players are less affected.]]></summary>
+  <category term="Science"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:50981131</id>
+  <title><![CDATA[So cute, so bizarre: Seahorses]]></title>
+  <updated>2019-10-25T14:21:00Z</updated>
+  <published>2019-10-25T14:21:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/so-cute-so-bizarre-seahorses/a-50981131?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Seahorses are adorable, we all agree on that. But they are also a bit helpless. That's why we should take better care of them.]]></summary>
+  <category term="Science"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:50965386</id>
+  <title><![CDATA[Polio: Two out of three strains 'eradicated']]></title>
+  <updated>2019-10-24T11:51:00Z</updated>
+  <published>2019-10-24T11:51:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/polio-two-out-of-three-strains-eradicated/a-50965386?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[The World Health Organization has announced that the type three strain of the wild polio virus "is truly gone." However, new data has revealed too few children in Germany are vaccinated against the disease.]]></summary>
+  <category term="News"/>
+ </entry>
+ <entry>
+  <id>tag:dw.com,2019:50852789</id>
+  <title><![CDATA[In the Balkans, locals fight to save their wild flowing rivers from hydropower]]></title>
+  <updated>2019-10-23T08:25:00Z</updated>
+  <published>2019-10-23T08:25:00Z</published>
+  <rights>2019 DW.COM, Deutsche Welle</rights>
+  <link rel="alternate" hreflang="en" href="https://www.dw.com/en/in-the-balkans-locals-fight-to-save-their-wild-flowing-rivers-from-hydropower/a-50852789?maca=en-rss-en-all-1573-xml-atom"/>
+  <summary><![CDATA[Mini hydropower plants are springing up all over the small Balkan state of Montenegro. The government says it's part of a renewables drive but activists and locals argue the plants are destroying their "lifeline."]]></summary>
+  <category term="Environment"/>
+ </entry>
+</feed>
